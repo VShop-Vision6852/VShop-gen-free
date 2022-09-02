@@ -20,6 +20,13 @@ People can abuse this system by using proxies or clearing their session everytim
 pip install -r requirements.txt
 ```
 
+# Info wen u wane Gen
+
+`` Make a map Accounts and delate this and than make your owne account names that u wanne gen and paste ur Combo list in to the thing ``
+
+``Proof (accounts (MAP!) (Roblox.txt) (Username + Password)``
+
+
 # License
 ```
 MIT License
